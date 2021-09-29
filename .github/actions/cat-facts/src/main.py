@@ -22,6 +22,8 @@ def select_random_fact(fact_arr):
 
 random_fact = select_random_fact(fact_list)
 
+random_fact = "test-cat"
+
 # Print the individual randomly returned cat-fact
 print(random_fact)
 
